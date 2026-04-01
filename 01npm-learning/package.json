@@ -1,6 +1,23 @@
 {
+  "name": "01npm-learning",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "Gaurav Rawat",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node src/server.js",
+    "format:fix": "prettier . --write ",
+    "format:check": "prettier . --check ",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "undici-types": "^7.18.2"
+  },
   "devDependencies": {
     "@types/node": "^25.5.0",
+    "prettier": "3.8.1",
     "typescript": "^6.0.2"
   }
 }
