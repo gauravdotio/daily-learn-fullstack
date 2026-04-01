@@ -1,8 +1,11 @@
-function Welcome(name: string) {
+function welcome(name: string) {
+    console.log("hello");
+
     const user = {
         name: "Gaurav",
     };
-    const name = user["name"];
-    // console.log("Welcome, + name");
+
+    const fname = user["name"];
+    return name + fname;
 }
-Welcome("Gaurav");
+welcome("Gaurav");

@@ -8,18 +8,20 @@ export default defineConfig(
     eslint.configs.recommended,
     tseslint.configs.recommendedTypeChecked,
     {
+        ignores: ["node_modules", "dist", "eslint.config.mjs"],
+    },
+    {
         languageOptions: {
             parserOptions: {
                 projectService: true,
             },
         },
     },
-    {
-        ignores: ["node_modules", "dist"],
-    },
+
     {
         rules: {
-            "no-console": "error",
+            // "no-console": "error",
+            "dot-notation": "error",
         },
     },
 );
