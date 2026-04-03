@@ -1,83 +1,32 @@
-# 🚀 Full Stack Developer Daily Learning Journey
+# 🚀 Full Stack Learning Journey
 
-Welcome to my **Daily Full Stack Development Learning Repository**.
+This repository documents my Full Stack Development learning journey. I am following a structured course, building real-world projects, and improving my development skills step-by-step.
 
-This repository documents my **daily coding practice, experiments, and projects** as I work towards becoming a **job-ready Full Stack Developer**.
+## 📅 Daily Progress
 
-My goal is to **code every single day**, build real-world projects, and continuously improve my understanding of modern web technologies.
+I will commit code daily to maintain consistency and track my learning progress.
 
----
+## 🎯 Goals
 
-## 📌 About This Repository
+- Become a job-ready Full Stack Developer  
+- Build real-world projects  
+- Improve problem-solving skills  
+- Learn modern development technologies  
 
-This repository serves as a **daily coding log** where I:
+## 🛠️ Tech Stack (Learning)
 
-- Practice **JavaScript fundamentals**
-- Build **Frontend applications**
-- Develop **Backend APIs**
-- Work with **databases**
-- Learn **development tools and best practices**
-
-Every commit represents **consistent effort and improvement** in my full stack development journey.
-
----
-
-## 🛠 Tech Stack I'm Learning
-
-### Frontend
-- HTML5  
-- CSS3  
-- JavaScript (ES6+)  
-- React.js  
-- Material UI  
-
-### Backend
+- JavaScript  
+- React  
 - Node.js  
-- Express.js  
-
-### Databases
-- MongoDB  
-- Firebase  
-
-### Tools & DevOps
+- Express  
+- Databases  
 - Git & GitHub  
-- Docker  
-- REST APIs  
-- Postman  
+- Deployment & DevOps  
+
+## 📌 Commitment
+
+I will push code **daily** and continuously improve this repository as I progress through my learning journey.
 
 ---
 
-## 📅 Daily Coding Commitment
-
-✔ Code **every day**  
-✔ Build **mini projects and features**  
-✔ Push updates to GitHub regularly  
-✔ Improve **problem-solving and coding skills**
-
----
-
-## 💡 Why This Repository Exists
-
-Consistency is the **most important skill in programming**.
-
-This repository keeps me **accountable**, tracks my progress, and showcases my **commitment to learning and improving every day**.
-
----
-
-## 👨‍💻 About Me
-
-Hi, I'm **Gaurav Rawat**.
-
-- 🎓 BTech IT Graduate  
-- 💻 Aspiring Full Stack Developer  
-- 📚 Currently learning modern web technologies and building projects daily  
-
----
-
-## ⭐ Support
-
-If you find this repository useful or inspiring, consider **starring the repo ⭐**.
-
----
-
-🔥 *“Small progress every day leads to big results.”*
+Learning in public. Building daily. Growing consistently.
